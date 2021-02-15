@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Tariq Al Otaibi: I have a dog
 - Suyash Shingare: I love R&B
-- Person 3: one sentence about you!
+- Giwoon Eom : I like DnB
 
 ## References
 
