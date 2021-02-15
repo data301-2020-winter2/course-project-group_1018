@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Person 1: one sentence about you!
 - Suyash Shingare: I love R&B
-- Person 3: one sentence about you!
+- Giwoon Eom : I like DnB
 
 ## References
 
