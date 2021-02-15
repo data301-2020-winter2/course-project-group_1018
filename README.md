@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=358596&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# Group 1018 - {Air Quality Analysis}
 
 - Your title can change over time.
 
@@ -12,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 {Add your stuff here}
 
 ## Describe your dataset in about 150-200 words
-
+The dataset provided by UCI Machine Learning Repository helps provide data taken from reponses of a gas multisensor device deployed in a city in Italy. It collected concentrations of CO (Carbon Monoxide), Nitrogen Oxides (NO2, NOx), and Benzenes. Data of these highly carcinogenic substances were collected over a period of one year, from March of 2004 to February 2005. This dataset will allow us to learn more about how toxicity levels can shift over time, while also providing insight into how different activities in the day influence the air quality, such are rush hours or livestock farming. This data was collected using an array of 5 metal oxide detectors in a gas multisensor device; it was placed in a largely polluted area at a road level in a city in Italy. 
 {Add your stuff here}
 
 ## Team Members
@@ -22,5 +22,25 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 - Giwoon Eom : I like DnB
 
 ## References
+S. De Vito, E. Massera, M. Piga, L. Martinotto, G. Di Francia, On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario, Sensors and Actuators B: Chemical, Volume 129, Issue 2, 22 February 2008, Pages 750-757, ISSN 0925-4005, [Web Link].
+([Web Link])
 
-{Add your stuff here}
+Saverio De Vito, Marco Piga, Luca Martinotto, Girolamo Di Francia, CO, NO2 and NOx urban pollution monitoring with on-field calibrated electronic nose by automatic bayesian regularization, Sensors and Actuators B: Chemical, Volume 143, Issue 1, 4 December 2009, Pages 182-191, ISSN 0925-4005, [Web Link].
+([Web Link])
+
+S. De Vito, G. Fattoruso, M. Pardo, F. Tortorella and G. Di Francia, 'Semi-Supervised Learning Techniques in Artificial Olfaction: A Novel Approach to Classification Problems and Drift Counteraction,' in IEEE Sensors Journal, vol. 12, no. 11, pp. 3215-3224, Nov. 2012.
+doi: 10.1109/JSEN.2012.2192425
+
+Skocaj, Matej et al. “Titanium dioxide in our everyday life; is it safe?.” Radiology and oncology vol. 45,4 (2011): 227-47. doi:10.2478/v10019-011-0037-0
+Toxicity of Titanium Dioxide 
+
+Bomhard, Ernst M. “The toxicology of indium oxide.” Environmental toxicology and pharmacology vol. 58 (2018): 250-258. doi:10.1016/j.etap.2018.02.003
+The toxicology of indium oxide
+
+A.L. Popov, N.M. Zholobak, O.I. Balko, O.B. Balko, A.B. Shcherbakov, N.R. Popova, O.S. Ivanova, A.E. Baranchikov, V.K. Ivanov, “Photo-induced toxicity of tungsten oxide photochromic nanoparticles” Journal of Photochemistry and Photobiology B: Biology, Volume 178,(2018):395-403, https://doi.org/10.1016/j.jphotobiol.2017.11.021.
+(https://www.sciencedirect.com/science/article/pii/S1011134417310448)
+Toxicity of Tungsten Oxide
+
+Johanna Feary, Paul Cullinan, Heavy Metals, Reference Module in Biomedical Sciences, Elsevier, 2019, , ISBN 9780128012383, https://doi.org/10.1016/B978-0-12-801238-3.11496-5.
+Toxicity of Tin Oxide
+“"Inhalation of tin oxide exposure causes stannosis, a benign, non-fibrotic pneumoconiosis"”
