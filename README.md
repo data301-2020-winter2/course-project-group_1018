@@ -15,8 +15,9 @@ The dataset provided by UCI Machine Learning Repository helps provide data taken
 
 ## Team Members
 1. Tariq Al Otaibi: > I have a dog
-2. Suyash Shingare: > I love R&B
-3. Giwoon Eom : > I like DnB
+>I have a dog - Tariq
+3. Suyash Shingare: > I love R&B
+4. Giwoon Eom : > I like DnB
 
 ## References
 [S. De Vito, E. Massera, M. Piga, L. Martinotto, G. Di Francia, On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario, Sensors and Actuators B: Chemical, Volume 129, Issue 2, 22 February 2008, Pages 750-757, ISSN 0925-4005](https://www.sciencedirect.com/science/article/abs/pii/S0925400507007691)
