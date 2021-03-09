@@ -15,7 +15,9 @@ The dataset provided by UCI Machine Learning Repository helps provide data taken
 
 ## Team Members
 >I have a dog - Tariq Al Otaibi
+
 >I love R&B - Suyash Shingare
+
 >I like DnB - Giwoon Eom
 
 
