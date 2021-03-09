@@ -24,7 +24,7 @@ S. De Vito, E. Massera, M. Piga, L. Martinotto, G. Di Francia, On field calibrat
 Saverio De Vito, Marco Piga, Luca Martinotto, Girolamo Di Francia, CO, NO2 and NOx urban pollution monitoring with on-field calibrated electronic nose by automatic bayesian regularization, Sensors and Actuators B: Chemical, Volume 143, Issue 1, 4 December 2009, Pages 182-191, ISSN 0925-4005, [Link](https://www.sciencedirect.com/science/article/abs/pii/S092540050900673X)
 
 S. De Vito, G. Fattoruso, M. Pardo, F. Tortorella and G. Di Francia, 'Semi-Supervised Learning Techniques in Artificial Olfaction: A Novel Approach to Classification Problems and Drift Counteraction,' in IEEE Sensors Journal, vol. 12, no. 11, pp. 3215-3224, Nov. 2012.
-doi: 10.1109/JSEN.2012.2192425 [Link]https://ieeexplore.ieee.org/document/6176193)
+doi: 10.1109/JSEN.2012.2192425 [Link](https://ieeexplore.ieee.org/document/6176193)
 
 Skocaj, Matej et al. “Titanium dioxide in our everyday life; is it safe?.” Radiology and oncology vol. 45,4 (2011): 227-47. doi:10.2478/v10019-011-0037-0
 Toxicity of Titanium Dioxide  [Link](https://pubmed.ncbi.nlm.nih.gov/22933961/)
