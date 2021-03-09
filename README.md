@@ -4,23 +4,20 @@
 - Your title can change over time.
 
 ## Milestones
----
+
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
 ## Describe your topic/interest in about 150-200 words
----
 The topic of our choice is about air quality and its changes throughout the day and year. We are trying to learn about the different levels of pollution throughout the day and its possible effects on the environment. We picked this topic because we found it relevant to important environmental issues like global warming and the Australian wildfires. Analyzing our dataset of choice could show us how different levels of gas changes across the year and across the day, with a little background research, this could help us relate gas emission to events and daily activities such as seasonal celebrations and rush hour.
 
 ## Describe your dataset in about 150-200 words
----
 The dataset provided by UCI Machine Learning Repository helps provide data taken from reponses of a gas multisensor device deployed in a city in Italy. It collected concentrations of CO (Carbon Monoxide), Nitrogen Oxides (NO2, NOx), and Benzenes. Data of these highly carcinogenic substances were collected over a period of one year, from March of 2004 to February 2005. This dataset will allow us to learn more about how toxicity levels can shift over time, while also providing insight into how different activities in the day influence the air quality, such are rush hours or livestock farming. This data was collected using an array of 5 metal oxide detectors in a gas multisensor device; it was placed in a largely polluted area at a road level in a city in Italy. 
 {Add your stuff here}
 
 ## Team Members
----
-- Tariq Al Otaibi: I have a dog
-- Suyash Shingare: I love R&B
-- Giwoon Eom : I like DnB
+1. Tariq Al Otaibi: I have a dog
+2. Suyash Shingare: I love R&B
+3. Giwoon Eom : I like DnB
 
 ## References
 S. De Vito, E. Massera, M. Piga, L. Martinotto, G. Di Francia, On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario, Sensors and Actuators B: Chemical, Volume 129, Issue 2, 22 February 2008, Pages 750-757, ISSN 0925-4005, [Web Link].
