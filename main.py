@@ -1,5 +1,5 @@
-import csv
-with open("data\\raw\\AirQualityUCI.csv") as csvfile:
-    reader = csv.DictReader(csvfile, delimiter=';')
-    for row in reader:
-        print(row["Date"]+":"+row["Time"]+row["CO(GT)"])
+from analysis.scripts import project_functions
+
+df = project_functions.load_and_process("data\\raw\\AirQualityUCI.csv")
+
+print(df.head())
