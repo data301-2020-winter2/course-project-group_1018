@@ -8,7 +8,7 @@ def load_and_process(url_or_path_to_csv_file):
     df1 = (
           pd.read_csv(url_or_path_to_csv_file, delimiter=";")
           .rename(
-              columns={"PT08.S4(NO2)":"Tungsten Oxide(NO2)", "PT08.S1(CO)":"Tin Oxide", "C6H6(GT)":"Benzene(GT)", "NO2(GT)":"Tungsten Oxide(NO2)(GT)", "T": "Temperature", "RH":"Relative Humidity", "AH":"Absolute Humidity", "Time":"Hour of Day", "NOx(GT)":"Tungsten Oxide(NOx)(GT)", "PT08.S3(NOx)":"Tungsten Oxide(NOx)"}
+              columns={"PT08.S4(NO2)":"Tungsten Oxide(NO2, S4)", "PT08.S1(CO)":"Tin Oxide (CO, S1)", "C6H6(GT)":"Benzene(GT)", "NO2(GT)":"NO2(GT)", "T": "Temperature", "RH":"Relative Humidity", "AH":"Absolute Humidity", "Time":"Hour of Day", "NOx(GT)":"NOx(GT)", "PT08.S3(NOx)":"Tungsten Oxide(NOx, S3)", "NMHC(GT)":"Non Metal HydroCarbon (GT)", "PT08.S2(NMHC)":"Titania (NMHC, S2)", "PT08.S5(O3)":"Indium Oxide (O3, S5)"}
               )
       )
     # Method Chain 2 (Create new columns, drop others, and do processing)
@@ -30,7 +30,7 @@ def load_and_process(url_or_path_to_csv_file):
 
     df2 = (
           df1
-          .drop(columns=["NMHC(GT)", "PT08.S2(NMHC)", "PT08.S5(O3)",  "Unnamed: 15", "Unnamed: 16"])
+          .drop(columns=[  "Unnamed: 15", "Unnamed: 16"])
           .replace(-200, np.nan)
           .dropna()
          # .assign(...)
