@@ -23,10 +23,14 @@ def load_and_process(url_or_path_to_csv_file):
     df1['Relative Humidity'] = df1['Relative Humidity'].astype(float)
     df1['Absolute Humidity'] = df1['Absolute Humidity'].str.replace(',','.')
     df1['Absolute Humidity'] = df1['Absolute Humidity'].astype(float)
+    #df1['PT08.S3(NOx)'] = df1['PT08.S3(NOx)'].str.replace(',','.')
+    #df1['PT08.S3(NOx)'] = df1['PT08.S3(NOx)'].astype(float)
+    #df1['NOx(GT)'] = df1['NOx(GT)'].str.replace(',','.')
+    #df1['NOx(GT)'] = df1['NOx(GT)'].astype(float)
 
     df2 = (
           df1
-          .drop(columns=["NMHC(GT)", "PT08.S2(NMHC)", "PT08.S5(O3)", "NOx(GT)", "PT08.S3(NOx)", "Unnamed: 15", "Unnamed: 16"])
+          .drop(columns=["NMHC(GT)", "PT08.S2(NMHC)", "PT08.S5(O3)",  "Unnamed: 15", "Unnamed: 16"])
           .replace(-200, np.nan)
           .dropna()
          # .assign(...)
