@@ -21,6 +21,19 @@ def load_and_process(url_or_path_to_csv_file):
          # .assign(...)
       )
 
+    #changing format to fit the graph
+    df2['Temperature'] = df2['Temperature'].str.replace(',','.')
+    df2['Temperature'] = df2['Temperature'].astype(float)
+    df2['Benzene(GT)'] = df2['Benzene(GT)'].str.replace(',','.')
+    df2['Benzene(GT)'] = df2['Benzene(GT)'].astype(float)
+    df2['CO(GT)'] = df2['CO(GT)'].str.replace(',','.')
+    df2['CO(GT)'] = df2['CO(GT)'].astype(float)
+    df2['Relative Humidity'] = df2['Relative Humidity'].str.replace(',','.')
+    df2['Relative Humidity'] = df2['Relative Humidity'].astype(float)
+    df2['Absolute Humidity'] = df2['Absolute Humidity'].str.replace(',','.')
+    df2['Absolute Humidity'] = df2['Absolute Humidity'].astype(float)
     # Make sure to return the latest dataframe
+      
 
-    return df2 
+
+    return df2
