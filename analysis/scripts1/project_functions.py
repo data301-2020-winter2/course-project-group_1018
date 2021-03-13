@@ -8,7 +8,7 @@ def load_and_process(url_or_path_to_csv_file):
     df1 = (
           pd.read_csv(url_or_path_to_csv_file, delimiter=";")
           .rename(
-              columns={"PT08.S4(NO2)":"Tungsten Oxide", "PT08.S1(CO)":"Tin Oxide", "C6H6(GT)":"Benzene(GT)", "NO2(GT)":"Tungsten Oxide(GT)", "T": "Temperature", "RH":"Relative Humidity", "AH":"Absolute Humidity", "Time":"Hour of Day"}
+              columns={"PT08.S4(NO2)":"Tungsten Oxide(NO2)", "PT08.S1(CO)":"Tin Oxide", "C6H6(GT)":"Benzene(GT)", "NO2(GT)":"Tungsten Oxide(NO2)(GT)", "T": "Temperature", "RH":"Relative Humidity", "AH":"Absolute Humidity", "Time":"Hour of Day", "NOx(GT)":"Tungsten Oxide(NOx)(GT)", "PT08.S3(NOx)":"Tungsten Oxide(NOx)"}
               )
       )
     # Method Chain 2 (Create new columns, drop others, and do processing)
