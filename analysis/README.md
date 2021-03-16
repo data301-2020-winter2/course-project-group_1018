@@ -16,6 +16,7 @@
 
 3. The large concentrations of nitrogen dioxide (NO2) can be attributed to its presence along with carbon monoxide (CO) and other harmful gases, as a result of vehicle emissions that contribute to the greenhouse effect. The correlation with the high concentration of gases and temperature further helps support this analysis of data. Moving forward we would like to see how this varies based on the time of day, and between seasons. This will help us connect the dots between the air quality in the city and vehicle contributions.As shown in the figure below, the toxic gasses are emitted mostly in the day and mid afternoon times. Roughly around when people are going to and back from work. Throughout during these times of day, people are exposed to higher concentrations of such gasses.
 
+![gas concentrations](../images/interaction_graph_NO_CO.png)
 ![fig](../images/gas_concentrations.PNG)
 
 
@@ -29,4 +30,3 @@
    
 
 
-![gas concentrations](../images/interaction_graph_NO_CO.png)
