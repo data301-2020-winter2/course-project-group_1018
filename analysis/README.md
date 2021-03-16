@@ -16,6 +16,7 @@
 
 3. The large concentrations of nitrogen dioxide (NOx) can be attributed to its presence along with carbon monoxide (CO) and other harmful gases, as a result of vehicle emissions that contribute to the greenhouse effect. The correlation with the high concentration of gases and temperature further helps support this analysis of data. Moving forward we would like to see how this varies based on the time of day, and between seasons. This will help us connect the dots between the air quality in the city and vehicle contributions.As shown in the figure below, the toxic gasses are emitted mostly in the day and mid afternoon times. Roughly around when people are going to and back from work. Throughout during these times of day, people are exposed to higher concentrations of such gasses.
 
+![gas concentrations](../images/interaction_graph_NO_CO.png)
 ![fig](../images/gas_concentrations.PNG)
 
 
@@ -24,6 +25,8 @@
 
    “*High humidity levels may exacerbate symptoms for a variety of reasons. The body must work harder to breathe when humidity levels are high, especially when the air is hot.*
    Humid air is dense, due to the high water content. This density can increase airway resistance in the body. As a result, breathing may require more effort, which can worsen COPD symptoms, including shortness of breath and fatigue.   
-   "*Humid, hot weather also requires the body to work harder to stay cool. Expending this energy requires more oxygen, which can contribute to feelings of breathlessness.*”  [[9]](www.medicalnewstoday.com/articles/323657#can-humidity-trigger-copd-symptoms.) 
+   "*Humid, hot weather also requires the body to work harder to stay cool. Expending this energy requires more oxygen, which can contribute to feelings of breathlessness.*”  [[9]](www.medicalnewstoday.com/articles/323657#can-humidity-trigger-copd-symptoms) 
    This part relates to the previous citations, repeated inhalation of heavy metal gasses lead to faster accumulation and therefore adverse symptoms. 
    
+
+
