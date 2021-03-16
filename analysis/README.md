@@ -17,7 +17,7 @@
 3. The large concentrations of nitrogen dioxide (NO2) can be attributed to its presence along with carbon monoxide (CO) and other harmful gases, as a result of vehicle emissions that contribute to the greenhouse effect. The correlation with the high concentration of gases and temperature further helps support this analysis of data. Moving forward we would like to see how this varies based on the time of day, and between seasons. This will help us connect the dots between the air quality in the city and vehicle contributions.
 
 4. As humidity increases breathing rates increases along with higher concentraton of toxic gases, therefore higher accumulations of toxins in the body, this can be shown in our correlation matrix as shown below. 
-
+![fig](../images/clationMatrix.png)
 
    “*High humidity levels may exacerbate symptoms for a variety of reasons. The body must work harder to breathe when humidity levels are high, especially when the air is hot.*
    Humid air is dense, due to the high water content. This density can increase airway resistance in the body. As a result, breathing may require more effort, which can worsen COPD symptoms, including shortness of breath and fatigue.   
