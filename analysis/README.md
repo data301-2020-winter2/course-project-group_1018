@@ -27,3 +27,6 @@
    "*Humid, hot weather also requires the body to work harder to stay cool. Expending this energy requires more oxygen, which can contribute to feelings of breathlessness.*”  [[9]](www.medicalnewstoday.com/articles/323657#can-humidity-trigger-copd-symptoms) 
    This part relates to the previous citations, repeated inhalation of heavy metal gasses lead to faster accumulation and therefore adverse symptoms. 
    
+
+
+![gas concentrations](../images/interaction_graph_NO_CO.png)
