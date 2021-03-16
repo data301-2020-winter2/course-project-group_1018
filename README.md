@@ -26,28 +26,26 @@ The dataset provided by UCI Machine Learning Repository helps provide data taken
 
 
 ## References
-[S. De Vito, E. Massera, M. Piga, L. Martinotto, G. Di Francia, On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario, Sensors and Actuators B: Chemical, Volume 129, Issue 2, 22 February 2008, Pages 750-757, ISSN 0925-4005](https://www.sciencedirect.com/science/article/abs/pii/S0925400507007691)
+[1] [S. De Vito, E. Massera, M. Piga, L. Martinotto, G. Di Francia, On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario, Sensors and Actuators B: Chemical, Volume 129, Issue 2, 22 February 2008, Pages 750-757, ISSN 0925-4005](https://www.sciencedirect.com/science/article/abs/pii/S0925400507007691)
 
-[Saverio De Vito, Marco Piga, Luca Martinotto, Girolamo Di Francia, CO, NO2 and NOx urban pollution monitoring with on-field calibrated electronic nose by automatic bayesian regularization, Sensors and Actuators B: Chemical, Volume 143, Issue 1, 4 December 2009, Pages 182-191, ISSN 0925-4005, ](https://www.sciencedirect.com/science/article/abs/pii/S092540050900673X)
+[2] [Saverio De Vito, Marco Piga, Luca Martinotto, Girolamo Di Francia, CO, NO2 and NOx urban pollution monitoring with on-field calibrated electronic nose by automatic bayesian regularization, Sensors and Actuators B: Chemical, Volume 143, Issue 1, 4 December 2009, Pages 182-191, ISSN 0925-4005, ](https://www.sciencedirect.com/science/article/abs/pii/S092540050900673X)
 
-[S. De Vito, G. Fattoruso, M. Pardo, F. Tortorella and G. Di Francia, 'Semi-Supervised Learning Techniques in Artificial Olfaction: A Novel Approach to Classification Problems and Drift Counteraction,' in IEEE Sensors Journal, vol. 12, no. 11, pp. 3215-3224, Nov. 2012.
+[3] [S. De Vito, G. Fattoruso, M. Pardo, F. Tortorella and G. Di Francia, 'Semi-Supervised Learning Techniques in Artificial Olfaction: A Novel Approach to Classification Problems and Drift Counteraction,' in IEEE Sensors Journal, vol. 12, no. 11, pp. 3215-3224, Nov. 2012.
 doi: 10.1109/JSEN.2012.2192425](https://ieeexplore.ieee.org/document/6176193)
 
-[Skocaj, Matej et al. “Titanium dioxide in our everyday life; is it safe?.” Radiology and oncology vol. 45,4 (2011): 227-47. doi:10.2478/v10019-011-0037-0
+[4] [Skocaj, Matej et al. “Titanium dioxide in our everyday life; is it safe?.” Radiology and oncology vol. 45,4 (2011): 227-47. doi:10.2478/v10019-011-0037-0
 Toxicity of Titanium Dioxide ](https://pubmed.ncbi.nlm.nih.gov/22933961/)
 
-[Bomhard, Ernst M. “The toxicology of indium oxide.” Environmental toxicology and pharmacology vol. 58 (2018): 250-258. doi:10.1016/j.etap.2018.02.003
+[5] [Bomhard, Ernst M. “The toxicology of indium oxide.” Environmental toxicology and pharmacology vol. 58 (2018): 250-258. doi:10.1016/j.etap.2018.02.003
 The toxicology of indium oxide](https://pubmed.ncbi.nlm.nih.gov/29448164/)
 
-[A.L. Popov, N.M. Zholobak, O.I. Balko, O.B. Balko, A.B. Shcherbakov, N.R. Popova, O.S. Ivanova, A.E. Baranchikov, V.K. Ivanov, “Photo-induced toxicity of tungsten oxide photochromic nanoparticles” Journal of Photochemistry and Photobiology B: Biology, Volume 178,(2018):395-403, ](https://www.sciencedirect.com/science/article/pii/S1011134417310448)
+[6] [A.L. Popov, N.M. Zholobak, O.I. Balko, O.B. Balko, A.B. Shcherbakov, N.R. Popova, O.S. Ivanova, A.E. Baranchikov, V.K. Ivanov, “Photo-induced toxicity of tungsten oxide photochromic nanoparticles” Journal of Photochemistry and Photobiology B: Biology, Volume 178,(2018):395-403, ](https://www.sciencedirect.com/science/article/pii/S1011134417310448)
 
-
-[Johanna Feary, Paul Cullinan, Heavy Metals, Reference Module in Biomedical Sciences, Elsevier, 2019, , ISBN 9780128012383, .
+[7] [Johanna Feary, Paul Cullinan, Heavy Metals, Reference Module in Biomedical Sciences, Elsevier, 2019, , ISBN 9780128012383, .
 Toxicity of Tin Oxide
 “"Inhalation of tin oxide exposure causes stannosis, a benign, non-fibrotic pneumoconiosis"” ](https://doi.org/10.1016/B978-0-12-801238-3.11496-5)
 
-
-[Zhang, K. “Air Pollution and Health Risks Due to Vehicle Traffic.” ScienceDirect, 15 Apr. 2013,](www.sciencedirect.com/science/article/abs/pii/S0048969713001290?via%3Dihub.)
+[8] [Zhang, K. “Air Pollution and Health Risks Due to Vehicle Traffic.” ScienceDirect, 15 Apr. 2013,](www.sciencedirect.com/science/article/abs/pii/S0048969713001290?via%3Dihub.)
 
 [Pietro, MaryAnn Crt. “Humidity Levels and COPD.” Medicalnewstoday, 12 Nov. 2018,](www.medicalnewstoday.com/articles/323657#can-humidity-trigger-copd-symptoms.)
 
