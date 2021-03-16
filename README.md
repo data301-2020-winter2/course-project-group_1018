@@ -47,9 +47,9 @@ Toxicity of Tin Oxide
 “"Inhalation of tin oxide exposure causes stannosis, a benign, non-fibrotic pneumoconiosis"” ](https://doi.org/10.1016/B978-0-12-801238-3.11496-5)
 
 
-[Zhang, K. “Air Pollution and Health Risks Due to Vehicle Traffic.” ScienceDirect, 15 Apr. 2013,] www.sciencedirect.com/science/article/abs/pii/S0048969713001290?via%3Dihub.
+[Zhang, K. “Air Pollution and Health Risks Due to Vehicle Traffic.” ScienceDirect, 15 Apr. 2013,](www.sciencedirect.com/science/article/abs/pii/S0048969713001290?via%3Dihub.)
 
-[Pietro, MaryAnn Crt. “Humidity Levels and COPD.” Medicalnewstoday, 12 Nov. 2018,] www.medicalnewstoday.com/articles/323657#can-humidity-trigger-copd-symptoms.
+[Pietro, MaryAnn Crt. “Humidity Levels and COPD.” Medicalnewstoday, 12 Nov. 2018,](www.medicalnewstoday.com/articles/323657#can-humidity-trigger-copd-symptoms.)
 
 
 
