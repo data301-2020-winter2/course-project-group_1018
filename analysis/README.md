@@ -20,6 +20,6 @@
 
 
    “*High humidity levels may exacerbate symptoms for a variety of reasons. The body must work harder to breathe when humidity levels are high, especially when the air is hot.*
-   *Humid air is dense, due to the high water content. This density can increase airway resistance in the body. As a result, breathing may require more effort, which can worsen COPD symptoms, including shortness of breath and fatigue.   
+   Humid air is dense, due to the high water content. This density can increase airway resistance in the body. As a result, breathing may require more effort, which can worsen COPD symptoms, including shortness of breath and fatigue.   
    "*Humid, hot weather also requires the body to work harder to stay cool. Expending this energy requires more oxygen, which can contribute to feelings of breathlessness.*”  [[9]](www.medicalnewstoday.com/articles/323657#can-humidity-trigger-copd-symptoms.) 
    This part relates to the previous citations, repeated inhalation of heavy metal gasses lead to faster accumulation and therefore adverse symptoms. 
