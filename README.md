@@ -51,5 +51,3 @@ Toxicity of Tin Oxide
 
 ## MILESTONE 4 PRESENTAION
 * click <a href="https://youtu.be/eYWVxdZJ4fQ" target="_blank">here</a>
-
-https://youtu.be/eYWVxdZJ4fQ
